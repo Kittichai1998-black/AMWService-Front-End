@@ -1,0 +1,81 @@
+{
+  "name": "frontend-amw",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@iconify/react": "^3.2.2",
+    "@lourenci/react-kanban": "^2.1.0",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui/icons-material": "^5.4.2",
+    "@mui/lab": "^5.0.0-alpha.79",
+    "@mui/material": "^5.8.6",
+    "@mui/styled-engine-sc": "^5.4.2",
+    "@mui/styles": "^5.4.2",
+    "@mui/x-data-grid": "^5.5.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.3",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.25.0",
+    "bootstrap": "^4.6.0",
+    "chart.js": "^3.8.0",
+    "cors": "^2.8.5",
+    "date-fns": "^2.28.0",
+    "dayjs": "^1.11.2",
+    "formik": "^2.2.9",
+    "material-table": "^1.69.3",
+    "moment": "^2.29.1",
+    "mui-datatables": "^4.1.2",
+    "qs": "^6.10.3",
+    "react": "^17.0.2",
+    "react-beautiful-dnd": "^13.1.0",
+    "react-bootstrap": "^2.2.1",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-filter": "^1.3.3",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-bootstrap-table2-toolkit": "^2.1.3",
+    "react-chartjs-2": "^4.2.0",
+    "react-dom": "^17.0.2",
+    "react-feather": "^2.0.9",
+    "react-moment": "^1.1.1",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "5.0.0",
+    "react-simple-image-slider": "^2.4.0",
+    "react-table": "^7.7.0",
+    "simple-react-lightbox": "^3.6.9-0",
+    "styled-components": "^5.3.3",
+    "sweetalert2": "^11.4.0",
+    "url-join": "^5.0.0",
+    "uuid": "^8.3.2",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
